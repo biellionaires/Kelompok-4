@@ -7,7 +7,7 @@ KELOMPOK 4 : - NABIEL AL-QAID ATHALLAH
              - ZAHRIAL AZKI
              - MUHAMMAD RAFIQ MURTADHA
 
-#TENTANG GAME NUMERO UNO
+# TENTANG GAME NUMERO UNO
 ![NUMERO UNO](https://github.com/user-attachments/assets/c880ee15-2e9d-44b8-beb1-19da0fbff242)
 "Numero Uno" adalah sebuah permainan tebak angka yang menguji ketajaman insting, strategi, dan pengambilan keputusan pemain. Pemain akan diminta untuk menebak angka rahasia yang tersembunyi, dengan kesempatan terbatas dan adanya petunjuk yang diberikan setiap kali tebakan salah. Setiap keputusan dalam permainan akan mempengaruhi skor pemain, yang semakin berkurang dengan setiap tebakan yang salah.
 
