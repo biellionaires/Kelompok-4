@@ -1,4 +1,4 @@
-# KELOMPOK 4 - GAME NUMERO UNO
+# GAME NUMERO UNO
 UAS PRAKTIKUM PEMROGRAMAN 2
 KELOMPOK 4 : 
 - NABIEL AL-QAID ATHALLAH
@@ -9,6 +9,7 @@ KELOMPOK 4 :
 - MUHAMMAD RAFIQ MURTADHA
 
 # TENTANG GAME NUMERO UNO
+![KELOMPOK 4](https://github.com/user-attachments/assets/0f2c389a-79ec-4057-a9aa-532915c93dcc)
 ![NUMERO UNO](https://github.com/user-attachments/assets/c880ee15-2e9d-44b8-beb1-19da0fbff242)
 "Numero Uno" adalah sebuah permainan tebak angka yang menguji ketajaman insting, strategi, dan pengambilan keputusan pemain. Pemain akan diminta untuk menebak angka rahasia yang tersembunyi, dengan kesempatan terbatas dan adanya petunjuk yang diberikan setiap kali tebakan salah. Setiap keputusan dalam permainan akan mempengaruhi skor pemain, yang semakin berkurang dengan setiap tebakan yang salah.
 
